@@ -1,0 +1,2 @@
+# Typescript
+exercício de typescript
